@@ -8,3 +8,4 @@ am_betty creates a script that switches the current user to the user betty.
 7-everybody writes a script that adds execution permission to the owner, the group owner and the other users, to the file hello.
 8-James_Bond writes a script that sets the permission to the file hello as stated in the question.
 9-John_Doe writes a script that sets the mode of the file hello as what is stated in the question.
+10-mirror_permissions writes a script that sets the mode of the file hello the same as olleh’s mode.
