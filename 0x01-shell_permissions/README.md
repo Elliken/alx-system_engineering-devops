@@ -15,3 +15,4 @@ am_betty creates a script that switches the current user to the user betty.
 100-change_owner_and_group writes a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 101-symbolic_link_permissions writes a script that changes the owner and the group owner of _hello to vincent and staff respectively.
 102-if_only Writes a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
+103-Star_Wars writes a script that will play the StarWars IV episode in the terminal.
