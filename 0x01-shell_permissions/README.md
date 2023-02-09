@@ -9,3 +9,4 @@ am_betty creates a script that switches the current user to the user betty.
 8-James_Bond writes a script that sets the permission to the file hello as stated in the question.
 9-John_Doe writes a script that sets the mode of the file hello as what is stated in the question.
 10-mirror_permissions writes a script that sets the mode of the file hello the same as olleh’s mode.
+11-directories_permissions writes a script that Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
